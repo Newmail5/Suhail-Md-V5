@@ -9,20 +9,20 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "~ ᴵᴬᴹ ➳ᒪᴼℜ𝑫 ᙢ𝔉𝓒ᒪᴼ𝙉ᙓ➳🎮 ",
       "required" :true
     },   
      
     "CAN_WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "true",
-      "required" :false
+      "required" :true
     },
      
     "CAN_GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-      "value": "false",
-      "required" :false
+      "value": "true",
+      "required" :true
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "2349039996138"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
